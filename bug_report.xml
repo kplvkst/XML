@@ -1,1 +1,12 @@
-
+<xml>
+  <ID>123</ID>
+  <Summary>Summary</Summary>
+  <Project>Project</Project>
+  <Version>Version</Version>
+  <Severity>Severity</Severity>
+  <Priority>Priority</Priority>
+  <Steps>Steps</Steps>
+  <ОР>ОР</ОР>
+  <ФР>ФР</ФР>
+  <Исполнитель>Исполнитель</Исполнитель>
+</xml>
