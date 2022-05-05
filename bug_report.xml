@@ -6,7 +6,7 @@
   <Severity>Severity</Severity>
   <Priority>Priority</Priority>
   <Steps>Steps</Steps>
-  <ОР>ОР</ОР>
-  <ФР>ФР</ФР>
-  <Исполнитель>Исполнитель</Исполнитель>
+  <ER>ER</ER>
+  <AR>AR</AR>
+  <Constractor>Constractor</Constractor>
 </xml>
